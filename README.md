@@ -40,7 +40,7 @@ Conn Type: Amazon Web Services
 
 Login: <AWS_ACCESS_KEY_ID>
 
-Password: <AWS_SECRET_ACCESS_KEY>
+Password:  AWS_SECRET_ACCESS_KEY
 
 Click Save and Add Another
 
@@ -48,7 +48,7 @@ Conn Id: redshift
 
 Conn Type: Postgres
 
-Host: <Redshift cluster endpoint from redshift.cfg>
+Host: Redshift cluster endpoint from redshift.cfg
   
 Schema: dev
 
