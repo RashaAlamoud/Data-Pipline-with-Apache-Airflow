@@ -65,4 +65,4 @@ Delete IAM role and Redshift cluster
 $ python create_cluster.py --delete
 
 # Project File
-You can see the project <a><href="https://github.com/RashaAlamoud/Data-Pipline-with-Apache-Airflow/blob/main/airflow_tut%20(1).ipynb">here</a> 
+You can see the project <a href="https://github.com/RashaAlamoud/Data-Pipline-with-Apache-Airflow/blob/main/airflow_tut%20(1).ipynb">here</a> 
