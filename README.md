@@ -30,7 +30,7 @@ $ airflow webserver
 
 # Airflow web UI
 
-Go to Admin > Connections apge and click Create.
+Go to Admin > Connections page and click Create.
 
 On the create connection page, enter the following values:
 
